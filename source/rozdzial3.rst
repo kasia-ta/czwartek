@@ -22,7 +22,7 @@ jednak napiszę tylko niektóre. Przedstawię także  zdzięcie pokazujące okł
 .. figure:: ./img/tak.jpg
    :align: center
 
-   Okładka ksiązki "Spowiedź diabła"
+   Zdjęcie pobrane ze strony https://lubimyczytac.pl/ksiazka/5036062/spowiedz-diabla
 
 
 
